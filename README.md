@@ -25,7 +25,19 @@ Forked, but README.md has been editing by me (dhanyscode)
 [Chapter 10: Unsupervised Learning](https://www.youtube.com/playlist?list=PL5-da3qGB5IBC-MneTc9oBZz0C6kNJ-f2): 1 hour & 31 min
 
 
-
+# PDF Book Pages
+| Section                                         | Page Number |
+|-------------------------------------------------|-------------|
+| Table of Contents                               | 9           |
+| Chp 2: Statistical Learning                     | 29          |
+| Chp 3: Linear Regression                        | 73          |
+| Chp 4: Classification                           | 141         |
+| Chp 5: Resampling Methods                       | 189         |
+| Chp 6: Linear Model Selection & Regularization  | 217         |
+| Chp 7: Moving Beyond Linearity                  | 279         |
+| Chp 8: Tree-Based Methods                       | 317         |
+| Chp 9: Support Vector Machines                  | 351         |
+| Chp 10: Unsupervised Learning                   | 387         |
 
 
 Note from author:
