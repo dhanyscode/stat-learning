@@ -12,7 +12,7 @@ Forked, but README.md has been editing by me (dhanyscode)
 <br>
 [Chapter 4: Classification](https://www.youtube.com/playlist?list=PL5-da3qGB5IC4vaDba5ClatUmFppXLAhE): 1 hour & 43 mins
 <br>
-[Chapter 5: Resampling Methods](https://www.youtube.com/user/dataschool): 1 hour & 22 mins
+[Chapter 5: Resampling Methods](https://www.youtube.com/playlist?list=PL5-da3qGB5IA6E6ZNXu7dp89_uv8yocmf): 1 hour & 22 mins
 <br>
 [Chapter 6: Linear Model Selection and Regularization](https://www.youtube.com/playlist?list=PL5-da3qGB5IB-Xdpj_uXJpLGiRfv9UVXI): 2 hours & 31 mins
 <br>
